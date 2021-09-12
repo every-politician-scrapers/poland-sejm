@@ -19,7 +19,7 @@ module.exports = function () {
         BIND(COALESCE(?groupShort, ?groupName) as ?klub_short)
       }
 
-      OPTIONAL { ?statement pq:P768 ?district }
+      OPTIONAL { ?item p:P3602 [ ps:P3602 wd:Q23132741 ; pq:P768 ?district ] }
 
       OPTIONAL {
         ?statement prov:wasDerivedFrom ?ref .
