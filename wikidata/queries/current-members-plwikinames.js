@@ -24,7 +24,6 @@ module.exports = function () {
       OPTIONAL {
         ?statement prov:wasDerivedFrom ?ref .
         ?ref (pr:P854|pr:P4656) ?source FILTER CONTAINS(STR(?source), 'pl.wikipedia.org')
-        ?ref pr:P854 ?source FILTER CONTAINS(STR(?source), 'pl.wikipedia.org')
         OPTIONAL { ?ref pr:P1810 ?sourceName }
       }
       OPTIONAL { ?item rdfs:label ?wdLabel FILTER(LANG(?wdLabel) = "${meta.source.lang.code}") }
