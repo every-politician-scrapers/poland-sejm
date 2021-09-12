@@ -1,0 +1,23 @@
+{
+    "jurisdiction": {
+      "name": "Poland",
+      "id": "Q36"
+    },
+    "legislature": {
+      "id": "Q98964",
+      "member": "Q19269361",
+      "term": {
+        "id": "Q71709885",
+        "start": "2019-11-12"
+      }
+    },
+    "source": {
+        "url":   "https://www.sejm.gov.pl/Sejm9.nsf/poslowie.xsp",
+        "title": "Wszyscy posłowie",
+        "lang":  {
+            "code": "pl",
+            "wikidata": "Q809"
+        }
+    },
+    "agent": "every-politican-scrapers/poland-sejm"
+}
