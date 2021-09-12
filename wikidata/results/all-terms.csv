@@ -1,0 +1,10 @@
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+1,Q9334962,1st term of the Sejm of the Republic of Poland,,,1991-11-25T00:00:00Z,11,,,1993-09-18T00:00:00Z,11,,,,,Q5165660,Contract Sejm,Q9334958,2nd term of the Sejm of the Republic of Poland
+2,Q9334958,2nd term of the Sejm of the Republic of Poland,,,1993-09-19T00:00:00Z,11,,,1997-10-19T00:00:00Z,11,,,,,Q9334962,1st term of the Sejm of the Republic of Poland,Q9334955,3rd term of the Sejm of the Republic of Poland
+3,Q9334955,3rd term of the Sejm of the Republic of Poland,,,1997-10-20T00:00:00Z,11,,,2001-10-18T00:00:00Z,11,,,,,Q9334958,2nd term of the Sejm of the Republic of Poland,Q9334961,4th term of the Sejm of the Republic of Poland
+4,Q9334961,4th term of the Sejm of the Republic of Poland,,,2001-10-19T00:00:00Z,11,,,2005-10-18T00:00:00Z,11,,,,,Q9334955,3rd term of the Sejm of the Republic of Poland,Q9334972,5th term of the Sejm of the Republic of Poland
+5,Q9334972,5th term of the Sejm of the Republic of Poland,,,2005-10-19T00:00:00Z,11,,,2007-11-04T00:00:00Z,11,,,,,Q9334961,4th term of the Sejm of the Republic of Poland,Q9334970,6th term of the Sejm of the Republic of Poland
+6,Q9334970,6th term of the Sejm of the Republic of Poland,,,2007-11-05T00:00:00Z,11,,,2011-11-07T00:00:00Z,11,,,,,Q9334972,5th term of the Sejm of the Republic of Poland,Q9334969,7th term of the Sejm of the Republic of Poland
+7,Q9334969,7th term of the Sejm of the Republic of Poland,,,2011-11-08T00:00:00Z,11,,,2015-11-11T00:00:00Z,11,,,,,Q9334970,6th term of the Sejm of the Republic of Poland,Q22056381,8th term of the Sejm of the Republic of Poland
+8,Q22056381,8th term of the Sejm of the Republic of Poland,,,2015-11-12T00:00:00Z,11,,,2019-11-11T00:00:00Z,11,,,,,Q9334969,7th term of the Sejm of the Republic of Poland,Q71709885,9th term of the Sejm of the Republic of Poland
+9,Q71709885,9th term of the Sejm of the Republic of Poland,,,2019-11-12T00:00:00Z,11,,,,,,,,,Q22056381,8th term of the Sejm of the Republic of Poland,,
