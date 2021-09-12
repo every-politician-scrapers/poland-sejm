@@ -13,6 +13,8 @@ class Legislature
     end
 
     field :name do
+      return 'Szymon Szynkowski vel Sęk' if display_name == 'Szynkowski vel Sęk Szymon'
+
       display_name.split(' ', 2).reverse.join(' ')
     end
 
@@ -25,7 +27,6 @@ class Legislature
     def display_name
       noko.css('.deputyName').text.tidy
     end
-
   end
 
   # The page listing all the members
