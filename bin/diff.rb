@@ -3,8 +3,15 @@
 
 require 'every_politician_scraper/comparison'
 
-# Remove government members and standardise parties
+# Standardise data
 class Comparison < EveryPoliticianScraper::Comparison
+  REMAP = {
+    'bezpartyjny' => 'niez.',
+  }.freeze
+
+  def wikidata_csv_options
+    { converters: [->(val) { REMAP.fetch(val, val) }] }
+  end
 end
 
 diff = Comparison.new('wikidata/results/current-members.csv', 'data/official.csv').diff

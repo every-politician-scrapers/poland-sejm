@@ -3,7 +3,7 @@ let rawmeta = fs.readFileSync('meta.json');
 let meta = JSON.parse(rawmeta);
 
 module.exports = function () {
-  return `SELECT ?item ?name ?group ?groupLabel ?district ?districtLabel ?gender ?dob ?dobPrecision
+  return `SELECT ?item ?name ?group ?klub_short ?district ?districtLabel ?gender ?dob ?dobPrecision
          (STRAFTER(STR(?statement), '/statement/') AS ?psid)
     WHERE
     {
@@ -15,12 +15,10 @@ module.exports = function () {
         ?statement pq:P4100 ?group .
         OPTIONAL { ?group wdt:P1813  ?groupShort FILTER (LANG(?groupShort) = '${meta.source.lang.code}')}
         OPTIONAL { ?group rdfs:label ?groupName  FILTER (LANG(?groupName)  = '${meta.source.lang.code}')}
-        BIND(COALESCE(?groupShort, ?groupName) as ?groupLabel)
+        BIND(COALESCE(?groupShort, ?groupName) as ?klub_short)
       }
 
-      OPTIONAL {
-        ?statement pq:P768 ?district .
-      }
+      OPTIONAL { ?statement pq:P768 ?district }
 
       OPTIONAL {
         ?statement prov:wasDerivedFrom ?ref .
@@ -37,7 +35,7 @@ module.exports = function () {
         ?ts psv:P569 [wikibase:timeValue ?dob ; wikibase:timePrecision ?dobPrecision] .
       }
       SERVICE wikibase:label {
-        bd:serviceParam wikibase:language "en".
+        bd:serviceParam wikibase:language "en,pl".
         ?genderItem rdfs:label ?gender .
         ?district rdfs:label ?districtLabel .
       }

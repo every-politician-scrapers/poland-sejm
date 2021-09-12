@@ -1,44 +1,93 @@
-@@,name
----,Zbigniew Hoffmann
----,Tomasz Nowak
----,Sławomir Piechota
----,Szymon Szynkowski vel Sęk
----,Piotr Zientarski
----,Marlena Maląg
----,Maria Janyska
----,Krzysztof Kozik
----,Katarzyna Piekarska
----,Izabela Mrzygłocka
----,Iwona Kozłowska
----,Henryka Krzywonos
----,Grzegorz Woźniak
----,Dominika Figurska
----,Anna Siarkowska
----,Anna Cicholska
----,Agata Wojtyszek
-+++,vel Sęk Szymon Szynkowski
-+++,Zbigniew Grzegorz Hoffmann
-+++,Władysław Dajczak
-+++,Tomasz Piotr Nowak
-+++,Sławomir Jan Piechota
-+++,Piotr Benedykt Zientarski
-+++,Marlena Magdalena Maląg
-+++,Maria Małgorzata Janyska
-+++,Marek Opioła
-+++,Krzysztof Janusz Kozik
-+++,Killion Munyama
-+++,Katarzyna Maria Piekarska
-+++,Jolanta Fedak
-+++,Jerzy Wilk
-+++,Izabela Katarzyna Mrzygłocka
-+++,Iwona Maria Kozłowska
-+++,Henryka Krzywonos-Strycharska
-+++,Grzegorz Adam Woźniak
-+++,Ewa Leniart
-+++,Dominika Chorosińska
-+++,Dominik Tarczyński
-+++,Anna Wasilewska
-+++,Anna Maria Siarkowska
-+++,Anna Ewa Cicholska
-+++,Agata Katarzyna Wojtyszek
-+++,Adam Lipiński
+@@,name,klub_short
+->,Zbigniew Ziejewski,Klub Parlamentarny Koalicja Polska->KP
+->,Zbigniew Girzyński,Koło Poselskie Polskie Sprawy->PS
+->,Władysław Teofil Bartoszewski,Klub Parlamentarny Koalicja Polska->KP
+->,Władysław Kosiniak-Kamysz,Klub Parlamentarny Koalicja Polska->KP
+->,Urszula Pasławska,Klub Parlamentarny Koalicja Polska->KP
+->,Urszula Nowogórska,Klub Parlamentarny Koalicja Polska->KP
+->,Stefan Krajewski,Klub Parlamentarny Koalicja Polska->KP
+->,Stanisław Żuk,Koło Poselskie Kukiz’15 – Demokracja Bezpośrednia->Kukiz15
+->,Stanisław Tyszka,Koło Poselskie Kukiz’15 – Demokracja Bezpośrednia->Kukiz15
+->,Stanisław Bukowiec,Koło Parlamentarne Porozumienie Jarosława Gowina->Porozumienie
+->,Robert Winnicki,Koło Poselskie Konfederacja->Konfederacja
+->,Radosław Lubczyk,Klub Parlamentarny Koalicja Polska->KP
+->,Piotr Zgorzelski,Klub Parlamentarny Koalicja Polska->KP
+->,Paweł Szramka,Koło Poselskie Polskie Sprawy->PS
+->,Paweł Kukiz,Koło Poselskie Kukiz’15 – Demokracja Bezpośrednia->Kukiz15
+->,Paweł Bejda,Klub Parlamentarny Koalicja Polska->KP
+->,Monika Pawłowska,Koło Parlamentarne Porozumienie Jarosława Gowina->Porozumienie
+->,Mirosław Maliszewski,Klub Parlamentarny Koalicja Polska->KP
+->,Mieczysław Kasprzak,Klub Parlamentarny Koalicja Polska->KP
+->,Michał Wypij,Koło Parlamentarne Porozumienie Jarosława Gowina->Porozumienie
+->,Michał Urbaniak,Koło Poselskie Konfederacja->Konfederacja
+->,Marek Sawicki,Klub Parlamentarny Koalicja Polska->KP
+->,Marek Biernacki,Klub Parlamentarny Koalicja Polska->KP
+->,Magdalena Sroka,NULL->Porozumienie
+->,Krzysztof Tuduj,Koło Poselskie Konfederacja->Konfederacja
+->,Krzysztof Paszyk,Klub Parlamentarny Koalicja Polska->KP
+->,Krzysztof Bosak,Koło Poselskie Konfederacja->Konfederacja
+->,Krystian Kamiński,Koło Poselskie Konfederacja->Konfederacja
+->,Konrad Berkowicz,Koło Poselskie Konfederacja->Konfederacja
+->,Jarosław Sachajko,Koło Poselskie Kukiz’15 – Demokracja Bezpośrednia->Kukiz15
+->,Jarosław Rzepa,Klub Parlamentarny Koalicja Polska->KP
+->,Jarosław Gowin,Koło Parlamentarne Porozumienie Jarosława Gowina->Porozumienie
+->,Janusz Korwin-Mikke,Koło Poselskie Konfederacja->Konfederacja
+->,Jan Łopata,Klub Parlamentarny Koalicja Polska->KP
+->,Jakub Kulesza,Koło Poselskie Konfederacja->Konfederacja
+->,Jacek Tomczak,Klub Parlamentarny Koalicja Polska->KP
+->,Jacek Protasiewicz,Klub Parlamentarny Koalicja Polska->KP
+->,Iwona Michałek,Koło Parlamentarne Porozumienie Jarosława Gowina->Porozumienie
+->,Ireneusz Raś,Klub Parlamentarny Koalicja Polska->KP
+->,Grzegorz Braun,Koło Poselskie Konfederacja->Konfederacja
+->,Dobromir Sośnierz,Koło Poselskie Konfederacja->Konfederacja
+->,Dariusz Kurzawa,Klub Parlamentarny Koalicja Polska->KP
+->,Dariusz Klimczak,Klub Parlamentarny Koalicja Polska->KP
+->,Czesław Siekierski,Klub Parlamentarny Koalicja Polska->KP
+->,Bożena Żelazowska,Klub Parlamentarny Koalicja Polska->KP
+->,Artur Dziambor,Koło Poselskie Konfederacja->Konfederacja
+->,Andrzej Sośnierz,Koło Poselskie Polskie Sprawy->PS
+->,Andrzej Grzyb,Klub Parlamentarny Koalicja Polska->KP
+->,Agnieszka Ścigaj,Koło Poselskie Polskie Sprawy->PS
+---,Zbigniew Hoffmann,PiS
+---,Tomasz Nowak,KO
+---,Sławomir Piechota,KO
+---,Szymon Szynkowski vel Sęk,PiS
+---,Piotr Zientarski,KO
+---,Marlena Maląg,PiS
+---,Maria Janyska,KO
+---,Krzysztof Kozik,PiS
+---,Katarzyna Piekarska,KO
+---,Izabela Mrzygłocka,KO
+---,Iwona Kozłowska,KO
+---,Henryka Krzywonos,KO
+---,Grzegorz Woźniak,PiS
+---,Dominika Figurska,PiS
+---,Anna Siarkowska,PiS
+---,Anna Cicholska,PiS
+---,Agata Wojtyszek,PiS
++++,vel Sęk Szymon Szynkowski,PiS
++++,Zbigniew Grzegorz Hoffmann,PiS
++++,Władysław Dajczak,PiS
++++,Tomasz Piotr Nowak,KO
++++,Sławomir Jan Piechota,KO
++++,Piotr Benedykt Zientarski,KO
++++,Marlena Magdalena Maląg,PiS
++++,Maria Małgorzata Janyska,KO
++++,Marek Opioła,PiS
++++,Krzysztof Janusz Kozik,PiS
++++,Killion Munyama,KO
++++,Katarzyna Maria Piekarska,KO
++++,Jolanta Fedak,KP
++++,Jerzy Wilk,PiS
++++,Izabela Katarzyna Mrzygłocka,KO
++++,Iwona Maria Kozłowska,KO
++++,Henryka Krzywonos-Strycharska,KO
++++,Grzegorz Adam Woźniak,PiS
++++,Ewa Leniart,PiS
++++,Dominika Chorosińska,PiS
++++,Dominik Tarczyński,PiS
++++,Anna Wasilewska,KO
++++,Anna Maria Siarkowska,PiS
++++,Anna Ewa Cicholska,PiS
++++,Agata Katarzyna Wojtyszek,PiS
++++,Adam Lipiński,PiS
