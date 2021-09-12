@@ -21,7 +21,7 @@ class MembersPage < Scraped::HTML
   decorator WikidataIdsDecorator::Links
 
   field :members do
-    member_links.map { |li| fragment(li => Member) }.select(&:member?).map(&:to_h)
+    member_links.map { |li| fragment(li => Member).to_h }
   end
 
   private
@@ -36,19 +36,32 @@ class MembersPage < Scraped::HTML
 end
 
 class Member < Scraped::HTML
-  def member?
-    true
+  GROUPS = {
+    'Klub Parlamentarny Koalicja Obywatelska – Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni' => 'Q108524655',
+    'Klub Parlamentarny Koalicja Polska – PSL, UED, Konserwatyści' => 'Q108524672',
+    'Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Wiosna Roberta Biedronia)' => 'Q108524674',
+    'Klub Parlamentarny Prawo i Sprawiedliwość' => 'Q108524676',
+    'Koło Parlamentarne Polska 2050' => 'Q108524677',
+    'Koło Parlamentarne Porozumienie Jarosława Gowina' => 'Q108524679',
+    'Koło Poselskie Konfederacja' => 'Q108524680',
+    'Koło Poselskie Kukiz’15 – Demokracja Bezpośrednia' => 'Q108524687',
+    'Koło Poselskie Polskie Sprawy' => 'Q108524690',
+    'Posłowie niezrzeszeni' => 'Q327591',
+  }
+
+  field :item do
+    name_link.attr('wikidata')
   end
 
   field :name do
     name_link.text.tidy
   end
 
-  field :wikidata do
-    name_link.attr('wikidata')
+  field :group do
+    GROUPS[groupname]
   end
 
-  field :party do
+  field :groupname do
     noko.xpath('preceding::th[1]').text.tidy
   end
 
