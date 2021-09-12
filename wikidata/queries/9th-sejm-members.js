@@ -9,7 +9,6 @@ module.exports = function () {
     {
       ?item p:P39 ?statement .
       ?statement ps:P39 wd:${meta.legislature.member} ; pq:P2937 wd:${meta.legislature.term.id} .
-      FILTER NOT EXISTS { ?statement pq:P582 ?end }
 
       OPTIONAL {
         ?statement pq:P4100 ?group .
