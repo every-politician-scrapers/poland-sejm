@@ -3,7 +3,7 @@ let rawmeta = fs.readFileSync('meta.json');
 let meta = JSON.parse(rawmeta);
 
 module.exports = function () {
-  return `SELECT ?item ?name ?party ?group ?district ?constituency ?gender ?dob ?dobPrecision
+  return `SELECT ?item ?name ?group ?groupLabel ?district ?districtLabel ?gender ?dob ?dobPrecision
          (STRAFTER(STR(?statement), '/statement/') AS ?psid)
     WHERE
     {
@@ -12,10 +12,10 @@ module.exports = function () {
       FILTER NOT EXISTS { ?statement pq:P582 ?end }
 
       OPTIONAL {
-        ?statement pq:P4100 ?party .
-        OPTIONAL { ?party wdt:P1813 ?partyShort FILTER (LANG(?partyShort) = '${meta.source.lang.code}')}
-        OPTIONAL { ?party rdfs:label ?partyName FILTER (LANG(?partyName) = '${meta.source.lang.code}')}
-        BIND(COALESCE(?partyShort, ?partyName) as ?group)
+        ?statement pq:P4100 ?group .
+        OPTIONAL { ?group wdt:P1813  ?groupShort FILTER (LANG(?groupShort) = '${meta.source.lang.code}')}
+        OPTIONAL { ?group rdfs:label ?groupName  FILTER (LANG(?groupName)  = '${meta.source.lang.code}')}
+        BIND(COALESCE(?groupShort, ?groupName) as ?groupLabel)
       }
 
       OPTIONAL {
@@ -39,7 +39,7 @@ module.exports = function () {
       SERVICE wikibase:label {
         bd:serviceParam wikibase:language "en".
         ?genderItem rdfs:label ?gender .
-        ?district rdfs:label ?constituency .
+        ?district rdfs:label ?districtLabel .
       }
     }
     # ${new Date().toISOString()}

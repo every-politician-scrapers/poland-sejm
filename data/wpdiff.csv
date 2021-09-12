@@ -1,9 +1,9 @@
 @@,item,name,group
 ->,Q984160,Tomasz Siemoniak,NULL->Q108524655
 ->,Q943067,Sławomir Nitras,NULL->Q108524655
-->,Q941664,Eugeniusz Czykwin,Koalicja Obywatelska->Q108524655
+->,Q941664,Eugeniusz Czykwin,Q57518078->Q108524655
 ->,Q9391730,Zofia Czernow,NULL->Q108524655
-->,Q9388252,Zbigniew Rau,Prawo i Sprawiedliwość->Q108524676
+->,Q9388252,Zbigniew Rau,Q156874->Q108524676
 ->,Q9388028,Zbigniew Konwiński,NULL->Q108524655
 ->,Q9382853,Włodzimierz Tomaszewski,NULL->Q108524676
 ->,Q9382607,Włodzimierz Czarzasty,NULL->Q108524674
@@ -74,8 +74,8 @@
 ->,Q72998344,Małgorzata Prokop-Paczkowska,NULL->Q108524674
 ->,Q72970716,Artur Łącki,NULL->Q108524655
 ->,Q72938290,Grzegorz Rusiecki,NULL->Q108524655
-->,Q72938214,Karolina Pawliczak,Lewica (2019)->Q108524674
-->,Q72936824,Marcin Kulasek,Lewica (2019)->Q108524674
+->,Q72938214,Karolina Pawliczak,Q66807204->Q108524674
+->,Q72936824,Marcin Kulasek,Q66807204->Q108524674
 ->,Q72936661,Zbigniew Ziejewski,NULL->Q108524672
 ->,Q72922606,Katarzyna Kretkowska,NULL->Q108524674
 ->,Q72921427,Rafał Adamczyk,NULL->Q108524674
@@ -86,6 +86,7 @@
 ->,Q72852516,Michał Wypij,NULL->Q108524679
 ->,Q72831660,Zdzisław Wolski,NULL->Q108524674
 ->,Q72831474,Grzegorz Gaża,NULL->Q108524676
+->,Q72386631->Q24944775,Magdalena Sroka,NULL->Q108524679
 ->,Q72385571,Teresa Pamuła,NULL->Q108524676
 ->,Q72264741,Urszula Zielińska,NULL->Q108524655
 ->,Q72264383,Maciej Górski,NULL->Q108524676
@@ -109,7 +110,7 @@
 ->,Q71421306,Tomasz Aniśko,NULL->Q108524655
 ->,Q71420899,Beata Strzałka,NULL->Q108524676
 ->,Q71420500,Monika Pawłowska,NULL->Q108524679
-->,Q71419663,Riad Haidar,Koalicja Obywatelska->Q108524655
+->,Q71419663,Riad Haidar,Q57518078->Q108524655
 ->,Q71331668,Przemysław Koperski,NULL->Q108524674
 ->,Q71256827,Bożena Żelazowska,NULL->Q108524672
 ->,Q71254826,Marta Wcisło,NULL->Q108524655
@@ -250,16 +251,16 @@
 ->,Q327512,Tomasz Głogowski,NULL->Q108524655
 ->,Q327449,Michał Jach,NULL->Q108524676
 ->,Q30231721,Piotr Wawrzyk,NULL->Q108524676
+->,Q30045841,Marta Kubiak,NULL->Q108524676
 ->,Q293305,Gabriela Masłowska,NULL->Q108524676
 ->,Q28744997,Małgorzata Janowska,NULL->Q108524676
 ->,Q28123976,Krzysztof Śmiszek,NULL->Q108524674
-->,Q27998784,Agnieszka Dziemianowicz-Bąk,Lewica (2019)->Q108524674
+->,Q27998784,Agnieszka Dziemianowicz-Bąk,Q66807204->Q108524674
 ->,Q275679,Joanna Senyszyn,NULL->Q108524674
 ->,Q275644,Katarzyna Piekarska,NULL->Q108524655
 ->,Q2569625,Wiesław Janczyk,NULL->Q108524676
 ->,Q256891,Joanna Fabisiak,NULL->Q108524655
 ->,Q255963,Lech Kołakowski,NULL->Q108524676
-->,Q24944775,Magdalena Sroka,NULL->Q108524679
 ->,Q24840,Jagna Marczułajtis-Walczak,NULL->Q108524655
 ->,Q24427754,Agata Wojtyszek,NULL->Q108524676
 ->,Q22351000,Zdzisław Sipiera,NULL->Q108524676
@@ -273,7 +274,7 @@
 ->,Q21872504,Radosław Fogiel,NULL->Q108524676
 ->,Q21822538,Jadwiga Emilewicz,NULL->Q108524676
 ->,Q2165280,Romuald Ajchler,NULL->Q108524674
-->,Q21524707,Krzysztof Gawkowski,Lewica (2019)->Q108524674
+->,Q21524707,Krzysztof Gawkowski,Q66807204->Q108524674
 ->,Q21440637,Marcin Porzucek,NULL->Q108524676
 ->,Q21440613,Anna Cicholska,NULL->Q108524676
 ->,Q21288053,Jacek Kurzępa,NULL->Q108524676
@@ -364,7 +365,7 @@
 ->,Q20900566,Gabriela Lenartowicz,NULL->Q108524655
 ->,Q20900564,Tomasz Kostuś,NULL->Q108524655
 ->,Q20873946,Małgorzata Tracz,NULL->Q108524655
-->,Q20278674,Barbara Nowacka,Koalicja Obywatelska->Q108524655
+->,Q20278674,Barbara Nowacka,Q57518078->Q108524655
 ->,Q19690234,Dariusz Stefaniuk,NULL->Q108524676
 ->,Q19690215,Krzysztof Paszyk,NULL->Q108524672
 ->,Q19690214,Katarzyna Osos,NULL->Q108524655
@@ -415,6 +416,7 @@
 ->,Q11778830,Michał Jaros,NULL->Q108524655
 ->,Q11778765,Michał Gramatyka,NULL->Q108524677
 ->,Q11778705,Michał Dworczyk,NULL->Q108524676
+->,Q11772373,Małgorzata Sekuła-Szmajdzińska,NULL->Q108524674
 ->,Q11772360,Małgorzata Pępek,NULL->Q108524655
 ->,Q11771436,Mateusz Morawiecki,NULL->Q108524676
 ->,Q11770976,Marzena Okła-Drewnowicz,NULL->Q108524655
@@ -457,11 +459,3 @@
 ->,Q1058052,Cezary Grabarczyk,NULL->Q108524655
 ->,Q105087004,Łukasz Mejza,NULL->Q327591
 ->,Q103056893,Szymon Pogoda,NULL->Q108524676
----,Q9324899,Ryszard Petru,
----,Q72386631,Magdalena Sroka,
----,Q72386631,Magdalena Sroka,
----,Q21282037,Zbigniew Gryglas,
----,Q11772373,Małgorzata Sekuła-Szmajdzińska,
----,Q11772373,Małgorzata Sekuła-Szmajdzińska,
-+++,Q30045841,Marta Kubiak,Q108524676
-+++,Q11772373,Małgorzata Sekuła-Szmajdzińska,Q108524674
