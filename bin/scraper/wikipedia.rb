@@ -40,6 +40,7 @@ class Member < Scraped::HTML
     'Klub Parlamentarny Koalicja Obywatelska – Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni' => 'Q108524655',
     'Klub Parlamentarny Koalicja Polska – PSL, UED, Konserwatyści' => 'Q108524672',
     'Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem, Wiosna Roberta Biedronia)' => 'Q108524674',
+    'Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)' => 'Q108524674',
     'Klub Parlamentarny Prawo i Sprawiedliwość' => 'Q108524676',
     'Koło Parlamentarne Polska 2050' => 'Q108524677',
     'Koło Parlamentarne Porozumienie Jarosława Gowina' => 'Q108524679',
