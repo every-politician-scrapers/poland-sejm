@@ -206,7 +206,7 @@ id,name,klub_short
 203,Władysław Kurowski,PiS
 204,Dariusz Kurzawa,KP
 462,Jacek Kurzępa,PiS
-205,Robert Kwiatkowski,Lewica
+205,Robert Kwiatkowski,PPS
 206,Anna Kwiecień,PiS
 207,Marek Kwitek,PiS
 208,Maciej Lasek,KO
@@ -319,9 +319,10 @@ id,name,klub_short
 311,Grzegorz Puda,PiS
 312,Ireneusz Raś,KP
 313,Zbigniew Rau,PiS
+470,Rafał Romanowski,PiS
 314,Monika Rosa,KO
 315,Dariusz Rosati,KO
-316,Andrzej Rozenek,Lewica
+316,Andrzej Rozenek,PPS
 317,Urszula Rusecka,PiS
 318,Grzegorz Rusiecki,KO
 319,Marek Rutka,Lewica
@@ -341,7 +342,7 @@ id,name,klub_short
 333,Łukasz Schreiber,PiS
 334,Małgorzata Sekuła-Szmajdzińska,Lewica
 335,Jarosław Sellin,PiS
-336,Joanna Senyszyn,Lewica
+336,Joanna Senyszyn,PPS
 337,Edward Siarka,PiS
 338,Anna Maria Siarkowska,PiS
 339,Krystyna Sibińska,KO
@@ -381,7 +382,7 @@ id,name,klub_short
 463,Andrzej Szlachta,PiS
 373,Adam Szłapka,KO
 374,Jan Szopiński,Lewica
-375,Paweł Szramka,PS
+375,Paweł Szramka,niez.
 376,Krzysztof Szulowski,PiS
 377,Krystyna Szumilas,KO
 378,Łukasz Szumowski,PiS
@@ -455,6 +456,7 @@ id,name,klub_short
 445,Witold Zembaczyński,KO
 446,Piotr Zgorzelski,KP
 447,Zbigniew Ziejewski,KP
+471,Elżbieta Zielińska,PiS
 448,Urszula Zielińska,KO
 449,Jarosław Zieliński,PiS
 450,Tomasz Zieliński,PiS
