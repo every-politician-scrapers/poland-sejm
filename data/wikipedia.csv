@@ -73,7 +73,6 @@ Q8067731,Zbigniew Hoffmann,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwoś�
 Q21282042,Marcin Horała,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
 Q22350994,Paweł Hreniak,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
 Q327449,Michał Jach,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
-Q2569625,Wiesław Janczyk,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
 Q28744997,Małgorzata Janowska,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
 Q21282048,Norbert Kaczmarczyk,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
 Q21282049,Filip Kaczyński,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
@@ -158,6 +157,7 @@ Q48842557,Violetta Porowska,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwoś
 Q21440637,Marcin Porzucek,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
 Q21282109,Grzegorz Puda,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
 Q9388252,Zbigniew Rau,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
+Q9303061,Rafał Romanowski,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
 Q20900575,Urszula Rusecka,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
 Q60834445,Paweł Rychlik,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
 Q21282116,Tomasz Rzymkowski,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
@@ -186,7 +186,6 @@ Q21282131,Józefa Szczurek-Żelazko,Q108524676,Klub Parlamentarny Prawo i Sprawi
 Q21282132,Paweł Szefernaker,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
 Q4759716,Andrzej Szlachta,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
 Q21282136,Krzysztof Szulowski,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
-Q47151909,Łukasz Szumowski,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
 Q9296902,Stanisław Szwed,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
 Q21282139,Ewa Szymańska,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
 Q21282140,Szymon Szynkowski vel Sęk,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
@@ -221,6 +220,7 @@ Q6836077,Michał Wójcik,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
 Q17705219,Bartłomiej Wróblewski,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
 Q11768599,Marek Zagórski,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
 Q9296914,Sławomir Zawiślak,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
+Q21282010,Elżbieta Zielińska,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
 Q6160856,Jarosław Zieliński,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
 Q56338906,Tomasz Zieliński,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
 Q159472,Zbigniew Ziobro,Q108524676,Klub Parlamentarny Prawo i Sprawiedliwość
@@ -353,53 +353,50 @@ Q21282160,Witold Zembaczyński,Q108524655,"Klub Parlamentarny Koalicja Obywatels
 Q72264741,Urszula Zielińska,Q108524655,"Klub Parlamentarny Koalicja Obywatelska – Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni"
 Q14918608,Piotr Zientarski,Q108524655,"Klub Parlamentarny Koalicja Obywatelska – Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni"
 Q449484,Tadeusz Zwiefka,Q108524655,"Klub Parlamentarny Koalicja Obywatelska – Platforma Obywatelska, Nowoczesna, Inicjatywa Polska, Zieloni"
-Q72921427,Rafał Adamczyk,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q2165280,Romuald Ajchler,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q71056770,Magdalena Biejat,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q71507746,Wiesław Buż,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q9382607,Włodzimierz Czarzasty,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q11715257,Jacek Czerniak,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q11768108,Marek Dyduch,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q27998784,Agnieszka Dziemianowicz-Bąk,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q71082903,Monika Falej,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q21524707,Krzysztof Gawkowski,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q19268672,Maciej Gdula,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q71180847,Daria Gosek-Popiołek,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q71217265,Arkadiusz Iwaniak,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q72920956,Maciej Konieczny,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q71331668,Przemysław Koperski,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q71062305,Maciej Kopiec,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q71160486,Katarzyna Kotula,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q72922606,Katarzyna Kretkowska,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q71067534,Paweł Krutul,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q65953357,Anita Kucharska-Dziedzic,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q72936824,Marcin Kulasek,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q9310945,Robert Kwiatkowski,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q73679465,Beata Maciejewska,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q71222896,Paulina Matysiak,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q513719,Wanda Nowicka,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q71120311,Robert Obaz,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q72938214,Karolina Pawliczak,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q72998344,Małgorzata Prokop-Paczkowska,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q515478,Andrzej Rozenek,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q71090171,Marek Rutka,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q21282118,Joanna Scheuring-Wielgus,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q11772373,Małgorzata Sekuła-Szmajdzińska,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q275679,Joanna Senyszyn,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q71042054,Anita Sowińska,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q376732,Wiesław Szczepański,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q4759715,Andrzej Szejna,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q61944248,Jan Szopiński,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q28123976,Krzysztof Śmiszek,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q376840,Tadeusz Tomaszewski,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q73682661,Tomasz Trela,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q71104811,Katarzyna Ueberhan,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q72998798,Dariusz Wieczorek,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q72831660,Zdzisław Wolski,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q382467,Bogusław Wontor,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q21157896,Adrian Zandberg,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q47484353,Marcelina Zawisza,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
-Q73683838,Anna Żukowska,Q108524674,"Koalicyjny Klub Parlamentarny Lewicy (Nowa Lewica, PPS, Razem)"
+Q72921427,Rafał Adamczyk,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q2165280,Romuald Ajchler,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q71056770,Magdalena Biejat,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q71507746,Wiesław Buż,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q9382607,Włodzimierz Czarzasty,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q11715257,Jacek Czerniak,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q11768108,Marek Dyduch,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q27998784,Agnieszka Dziemianowicz-Bąk,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q71082903,Monika Falej,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q21524707,Krzysztof Gawkowski,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q19268672,Maciej Gdula,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q71217265,Arkadiusz Iwaniak,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q72920956,Maciej Konieczny,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q71331668,Przemysław Koperski,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q71062305,Maciej Kopiec,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q71160486,Katarzyna Kotula,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q72922606,Katarzyna Kretkowska,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q71067534,Paweł Krutul,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q65953357,Anita Kucharska-Dziedzic,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q72936824,Marcin Kulasek,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q73679465,Beata Maciejewska,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q71222896,Paulina Matysiak,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q513719,Wanda Nowicka,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q71120311,Robert Obaz,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q72938214,Karolina Pawliczak,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q72998344,Małgorzata Prokop-Paczkowska,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q71090171,Marek Rutka,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q21282118,Joanna Scheuring-Wielgus,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q11772373,Małgorzata Sekuła-Szmajdzińska,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q71042054,Anita Sowińska,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q376732,Wiesław Szczepański,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q4759715,Andrzej Szejna,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q71180847,Daria Gosek-Popiołek,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q61944248,Jan Szopiński,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q28123976,Krzysztof Śmiszek,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q376840,Tadeusz Tomaszewski,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q73682661,Tomasz Trela,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q71104811,Katarzyna Ueberhan,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q72998798,Dariusz Wieczorek,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q72831660,Zdzisław Wolski,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q382467,Bogusław Wontor,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q21157896,Adrian Zandberg,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q47484353,Marcelina Zawisza,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
+Q73683838,Anna Żukowska,,"Koalicyjny Klub Poselski Lewicy (Nowa Lewica, Razem)"
 Q64141216,Władysław Bartoszewski,Q108524672,"Klub Parlamentarny Koalicja Polska – PSL, UED, Konserwatyści"
 Q19690145,Paweł Bejda,Q108524672,"Klub Parlamentarny Koalicja Polska – PSL, UED, Konserwatyści"
 Q364643,Marek Biernacki,Q108524672,"Klub Parlamentarny Koalicja Polska – PSL, UED, Konserwatyści"
@@ -448,14 +445,17 @@ Q222905,Jarosław Gowin,Q108524679,Koło Parlamentarne Porozumienie Jarosława G
 Q21282087,Iwona Michałek,Q108524679,Koło Parlamentarne Porozumienie Jarosława Gowina
 Q72386631,Magdalena Sroka,Q108524679,Koło Parlamentarne Porozumienie Jarosława Gowina
 Q72852516,Michał Wypij,Q108524679,Koło Parlamentarne Porozumienie Jarosława Gowina
-Q168064,Zbigniew Girzyński,Q108524690,Koło Poselskie Polskie Sprawy
-Q4759710,Andrzej Sośnierz,Q108524690,Koło Poselskie Polskie Sprawy
-Q21282135,Paweł Szramka,Q108524690,Koło Poselskie Polskie Sprawy
-Q21282142,Agnieszka Ścigaj,Q108524690,Koło Poselskie Polskie Sprawy
 Q55390,Paweł Kukiz,Q108524687,Koło Poselskie Kukiz’15 – Demokracja Bezpośrednia
 Q21282117,Jarosław Sachajko,Q108524687,Koło Poselskie Kukiz’15 – Demokracja Bezpośrednia
 Q21282147,Stanisław Tyszka,Q108524687,Koło Poselskie Kukiz’15 – Demokracja Bezpośrednia
 Q71193850,Stanisław Żuk,Q108524687,Koło Poselskie Kukiz’15 – Demokracja Bezpośrednia
+Q9310945,Robert Kwiatkowski,,Koło Parlamentarne Polskiej Partii Socjalistycznej
+Q515478,Andrzej Rozenek,,Koło Parlamentarne Polskiej Partii Socjalistycznej
+Q275679,Joanna Senyszyn,,Koło Parlamentarne Polskiej Partii Socjalistycznej
+Q168064,Zbigniew Girzyński,Q108524690,Koło Poselskie Polskie Sprawy
+Q4759710,Andrzej Sośnierz,Q108524690,Koło Poselskie Polskie Sprawy
+Q21282142,Agnieszka Ścigaj,Q108524690,Koło Poselskie Polskie Sprawy
 Q21281995,Zbigniew Ajchler,Q327591,Posłowie niezrzeszeni
 Q6338599,Ryszard Galla,Q327591,Posłowie niezrzeszeni
 Q105087004,Łukasz Mejza,Q327591,Posłowie niezrzeszeni
+Q21282135,Paweł Szramka,Q327591,Posłowie niezrzeszeni
